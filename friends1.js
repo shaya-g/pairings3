@@ -1,6 +1,15 @@
-var nums = [1, 5, 10, 15, 37];
-if (nums < 30) {
-console.log(nums)
-else if (num < 60);
-console.log(nums)
+num = [1, 5, 10, 15, 37]
+
+for (var i = 0; i < num.length; i++) {
+  if (num [i] > 30)
+  console.log(num[i])
+}
+
+console.log("=============")
+
+num = [1, 5, 10, 15, 37]
+
+for (var i = 0; i < num.length; i++) {
+  if (num[i] < 60)
+  console.log (num[i])
 }
